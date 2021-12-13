@@ -1,6 +1,6 @@
 {
   "name": "@spidergrep/demo-pack",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Demo",
   "main": "index.js",
   "scripts": {
