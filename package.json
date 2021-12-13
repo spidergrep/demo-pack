@@ -7,9 +7,9 @@
     "test": "exit 0"
   },
   "repository": {
-    "name": "@spidergrep/demopack",
+    "name": "@spidergrep/demo-pack",
     "type": "git",
-    "url": "git+https://github.com/spidergrep/demo-pack.git"
+    "url": "https://github.com/spidergrep/demo-pack.git"
   },
   "author": "spidermanja <38@tg.com>",
   "license": "MIT",
